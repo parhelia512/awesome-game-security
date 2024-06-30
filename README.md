@@ -627,6 +627,7 @@ Or you can send an issue for me.
 - https://github.com/ajkhoury/ReClassEx
 - https://github.com/ReClassNET/ReClass.NET
 - https://github.com/niemand-sec/ReClass.NET-DriverReader [ReClass DriverReader]
+- https://github.com/BeneficialCode/KReClassEx [Kernel ReClassEx]
 - https://github.com/imerzan/ReClass-DMA [ReClass DMA]
 - https://github.com/Metick/CheatEngine-DMA [CheatEngine DMA]
 - https://github.com/x64dbg/DotX64Dbg
@@ -736,6 +737,7 @@ Or you can send an issue for me.
 
 > Fix Themida
 - https://github.com/sodareverse/TDE
+- https://github.com/ergrelet/themida-unmutate
 
 > Fix OLLVM
 - https://bbs.pediy.com/thread-272414.htm
@@ -1334,6 +1336,7 @@ Or you can send an issue for me.
 - https://github.com/ohchase/yaui
 - https://github.com/cs1ime/AndroidSuperInject [Injecting into SELinux-protected system service processes]
 - https://github.com/erfur/linjector-rs [Code injection on Android without ptrace]
+- https://github.com/NepMods/InjectARM64 [Non-root injection]
 
 
 > DLL Hijack
