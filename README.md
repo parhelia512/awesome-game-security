@@ -3565,6 +3565,7 @@ Adds drag- to- resize functionality to the main GTA V window](https://github.com
 - https://github.com/gmh5225/AntiKernelDebug-POC [Windows Kernel]
 - https://github.com/BaumFX/cpp-anti-debug
 - https://github.com/Metick/Anti-Debug
+- https://github.com/NotRequiem/antidbg [Fully syscalled C/C++ userland anti-debugging library and CLI for Windows with stealth-focused anti-RE protections]
 - https://github.com/EvilBytecode/GoDefender [Anti Debugging]
 - https://github.com/Ahora57/RaceCondition
 - https://github.com/AdvDebug/AntiCrack-DotNet [DotNet]
