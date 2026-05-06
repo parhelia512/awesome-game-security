@@ -2089,6 +2089,7 @@ npx skills add https://github.com/gmh5225/awesome-game-security --skill reverse-
 - https://github.com/gmh5225/CVE-2024-21338 [appid.sys]
 - https://github.com/MrAle98/CVE-2024-49138-POC [CLFS.sys]
 - https://github.com/gmh5225/CVE-2025-21333-POC [vkrnlintvsp.sys]
+- https://github.com/nu1lptr0/CVE-2025-21333 [LPE due to integer truncation in vskrnlintvsp.sys]
 - https://github.com/Xacone/Eneio64-Driver-Exploit [eneio64.sys]
 - https://github.com/gmh5225/BYOVD/tree/main/TfSysMon-Killer [SysMon.sys]
 - https://github.com/gmh5225/BYOVD/tree/main/Ksapi64-Killer [ksapi64.sys]
