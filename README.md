@@ -1827,6 +1827,7 @@ npx skills add https://github.com/gmh5225/awesome-game-security --skill reverse-
 - https://github.com/WeiJiLab/kernel-hook-framework [linux kernel inline hook framework]
 - https://github.com/Rprop/And64InlineHook [Android ARMv8 inline hook framework]
 - https://github.com/GToad/Android_Inline_Hook_ARM64 [Android ARMv8 inline hook framework]
+- https://github.com/ChwnWang0/Android-kernel-inline-hook-framework [ARM64 Android kernel inline hook framework with instruction relocation]
 - https://github.com/BossKoopa/BWSR [Arm64 inline hooking for iOS, Android, OSX, and Linux]
 - https://github.com/regomne/ilhook-rs [Rust x86]
 - https://github.com/iofomo/abyss [Android system call hook]
