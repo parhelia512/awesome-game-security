@@ -157,6 +157,7 @@ npx skills add https://github.com/gmh5225/awesome-game-security --skill reverse-
 - https://github.com/gameplay3d/gameplay [2D/3D]
 - https://github.com/NoelFB/blah [C++ 2D]
 - https://github.com/Squalr/Squally [C++ 2D]
+- https://github.com/Hekbas/Luth [C++ 2D]
 - https://github.com/u3d-community/U3D [C++ 2D/3D]
 - https://github.com/turbulenz/turbulenz_engine [HTML5]
 - https://github.com/melonjs/melonJS [HTML5]
