@@ -2330,6 +2330,7 @@ npx skills add https://github.com/gmh5225/awesome-game-security --skill reverse-
 - https://github.com/gmh5225/Driver-DriverNoImage [Hijack Driver]
 - https://github.com/gmh5225/Driver-Systemthread-from-PspCidTable-src [Hide Process/Thread/Handle]
 - https://github.com/reveny/Android-Library-Remap-Hide [Remap a library for Android]
+- https://github.com/Anatdx/Kasumi [Kernel-level path manipulation and hiding framework for Android GKI/Linux]
 - https://github.com/rad9800/BootExecuteEDR [BootExecute EDR Bypass]
 
 > Anti Forensics
