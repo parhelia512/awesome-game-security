@@ -3774,6 +3774,7 @@ Adds drag- to- resize functionality to the main GTA V window](https://github.com
 - https://github.com/gmh5225/EntropyReducer [Reduce Entropy]
 - https://github.com/Washi1337/AwaitFuscator [.NET]
 - https://github.com/badhive/stitch [X86: Rewrite and obfuscate code in compiled binaries]
+- https://github.com/0xMohammedHassan/morphkatz [Polymorphic PE rewriter for Windows x64; semantically identical but byte-different binary variants]
 - https://github.com/keowu/Ryujin [X86 PE BIN2BIN]
 - https://github.com/zx0CF1/shredder-rs [A high-fidelity x86_64 polymorphic mutation engine focused on instruction-level fragmentation and context preservation]
 - https://github.com/LeoChen-CoreMind/VMPacker [ARM64 ELF Virtual Machine Protection System]
