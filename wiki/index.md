@@ -382,6 +382,7 @@ Compiled knowledge catalog for awesome-game-security.
 - [Return-address-spoofer](entities/return-address-spoofer.md) — return-address / stack spoof illustration (C/C++; Cheat Spoof Stack)
 - [ricochet-deobfuscator](entities/ricochet-deobfuscator.md) — Ricochet AC deobfuscator (C/C++; driver / memory analysis)
 - [RootSocketKit](entities/root-socket-kit.md) — Android LKM + Unix-socket root memory R/W (Magisk/KernelSU/APatch JNI; GUI)
+- [rtti-parser](entities/rtti-parser.md) — IDA script: parse RTTI (IDA 9.2; cheat / IDA Plugins)
 - [rwMem](entities/rwmem.md) — rwProcMem33 fork; Android process-memory R/W (Cheat Memory Explorer)
 - [Rumba](entities/rumba.md) — Python VMProtect analysis (symbolic exec / traces; Fix VMP / MBA-tagged)
 - [Sark](entities/sark.md) — IDAPython Made Easy (IDA plugins / older IDA-6.x branch)
