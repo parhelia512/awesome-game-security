@@ -3188,6 +3188,7 @@ npx skills add https://github.com/gmh5225/awesome-game-security --skill reverse-
   
 > Game:Assault Cube
 - https://github.com/gmh5225/external-esp-hack-assaultcube [GDI overlay]
+- https://github.com/TheHeadphonesAreNeeded/VoltClient [Educational AssaultCube external: DX11 ImGui overlay, ESP, tracers, aimbot via ReadProcessMemory]
 - https://github.com/gmh5225/AssaultCubeCheat
 - https://github.com/201580ag/AssaultCube_Cheat
 - https://github.com/kotae4/lab-esp-and-aimbot [Walkthrough of an ESP and aimbot cheat from scratch]
