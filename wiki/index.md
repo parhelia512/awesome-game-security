@@ -443,6 +443,7 @@ Compiled knowledge catalog for awesome-game-security.
 - [UTM](entities/utm.md) — QEMU VM host for iOS/macOS (Hypervisor.framework / JIT; IOS Emulator)
 - [uWebSockets](entities/uwebsockets.md) — C++ WebSocket/HTTP server (TLS / pub-sub; Game Network)
 - [UMPMLib](entities/umpmlib.md) — C/C++ usermode memory analysis (cheat / RPM)
+- [UE-Interview-Cheat-Sheet](entities/ue-interview-cheat-sheet.md) — Unreal Engine interview cheat sheet (Game Engine / Unreal guide)
 - [ue4-tutorials](entities/ue4-tutorials.md) — UE4 C++ tutorials (audio / physics / animation; Game Engine / Unreal guide)
 - [UE5-With-Dear-ImGui](entities/ue5-with-dear-imgui.md) — UE 5.0.1 C++ Dear ImGui sample (Game Engine Plugins:Unreal)
 - [UEFI-Bootloader](entities/uefi-bootloader.md) — simple UEFI runtime-driver mmapper (C/C++; cheat / EFI driver)

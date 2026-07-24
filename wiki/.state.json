@@ -482,15 +482,11 @@
     "description:reveny/Android-Native-Import-Hide": "e6b8216b248d66219dff9d78fcfdd39806faf673f393f1f964d219158b1ba0b7",
     "description:reveny/Android-Library-Remap-Hide": "3bf14a6895aee674ac64bf04e84e246c8cb5254f020ba69bc293d59e22ce3441",
     "description:reveny/Android-LD-Preload-Injector": "4f103cabd5b441b40e8c1971e904809bae4c5c22a34e679f025a14d6fc80750e",
-    "description:reveny/Android-Emulator-Detection": "44ff086d7811d0f96b91ba72def0f2458d2a4d2b8cc0733b0c9a3cfd319e0893"
+    "description:reveny/Android-Emulator-Detection": "44ff086d7811d0f96b91ba72def0f2458d2a4d2b8cc0733b0c9a3cfd319e0893",
+    "description:revan1611/UE-Interview-Cheat-Sheet": "0bb0814debe4a94227b809a1eb13ecaf42a91eca15fe293fbb9369f9ae1e3bcd"
   },
   "pending": [],
   "ingested": [
-    {
-      "id": "description:zhuowei/cheese",
-      "kind": "description",
-      "at": "2026-07-17"
-    },
     {
       "id": "description:zhizhuodemao/android_proxy_mcp",
       "kind": "description",
@@ -2983,6 +2979,11 @@
     },
     {
       "id": "description:reveny/Android-Emulator-Detection",
+      "kind": "description",
+      "at": "2026-07-24"
+    },
+    {
+      "id": "description:revan1611/UE-Interview-Cheat-Sheet",
       "kind": "description",
       "at": "2026-07-24"
     }

@@ -1048,3 +1048,5 @@ Append-only journal of ingest / lint / skill-sync activity.
 - **2026-07-24** — ingest `description:reveny/Android-LD-Preload-Injector`: entity [[android-ld-preload-injector]]; cited on [[overviews/mobile-security]] and [[overviews/game-hacking]].
 
 - **2026-07-24** — ingest `description:reveny/Android-Emulator-Detection`: entity [[android-emulator-detection]]; cited on [[overviews/mobile-security]] and [[overviews/anti-cheat]].
+
+- **2026-07-24** — ingest `description:revan1611/UE-Interview-Cheat-Sheet`: entity [[ue-interview-cheat-sheet]]; cited on [[overviews/game-engine]] and [[overviews/overview]].
