@@ -1052,3 +1052,5 @@ Append-only journal of ingest / lint / skill-sync activity.
 - **2026-07-24** — ingest `description:revan1611/UE-Interview-Cheat-Sheet`: entity [[ue-interview-cheat-sheet]]; cited on [[overviews/game-engine]] and [[overviews/overview]].
 
 - **2026-07-24** — ingest `description:repnz/ida-plugins`: entity [[ida-plugins]]; cited on [[overviews/reverse-engineering]] and [[overviews/game-hacking]].
+
+- **2026-07-24** — ingest `description:repnz/apc-research`: entity [[apc-research]]; cited on [[overviews/windows-kernel]] and [[overviews/game-hacking]].
