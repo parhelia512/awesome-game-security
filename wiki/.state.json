@@ -486,15 +486,11 @@
     "description:revan1611/UE-Interview-Cheat-Sheet": "0bb0814debe4a94227b809a1eb13ecaf42a91eca15fe293fbb9369f9ae1e3bcd",
     "description:repnz/ida-plugins": "9274525934c053f8de3fb095d6eb90404f05a2fd9354a5c9748ddb798b7d7872",
     "description:repnz/apc-research": "2daac4cbf257332ab173ba796907562087d0e5e4a4b461abc44391b2cdab176d",
-    "description:rem0obb/rtti-parser": "e434c9ce67fba985a4129fa8b174b0e22aaa56bf220eba965c2d287fedef4d7e"
+    "description:rem0obb/rtti-parser": "e434c9ce67fba985a4129fa8b174b0e22aaa56bf220eba965c2d287fedef4d7e",
+    "description:regomne/ilhook-rs": "d7c36a43b5b67c178f4ba200c687c4a9fffe4fc5b7a9ca9804cef344c13a6533"
   },
   "pending": [],
   "ingested": [
-    {
-      "id": "description:zhaodice/qemu-anti-detection",
-      "kind": "description",
-      "at": "2026-07-17"
-    },
     {
       "id": "description:zeroxjf/lightsaber",
       "kind": "description",
@@ -2987,6 +2983,11 @@
     },
     {
       "id": "description:rem0obb/rtti-parser",
+      "kind": "description",
+      "at": "2026-07-24"
+    },
+    {
+      "id": "description:regomne/ilhook-rs",
       "kind": "description",
       "at": "2026-07-24"
     }

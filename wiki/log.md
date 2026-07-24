@@ -1056,3 +1056,5 @@ Append-only journal of ingest / lint / skill-sync activity.
 - **2026-07-24** — ingest `description:repnz/apc-research`: entity [[apc-research]]; cited on [[overviews/windows-kernel]] and [[overviews/game-hacking]].
 
 - **2026-07-24** — ingest `description:rem0obb/rtti-parser`: entity [[rtti-parser]]; cited on [[overviews/reverse-engineering]] and [[overviews/game-hacking]].
+
+- **2026-07-24** — ingest `description:regomne/ilhook-rs`: entity [[ilhook-rs]]; cited on [[overviews/game-hacking]] and [[overviews/anti-cheat]].
